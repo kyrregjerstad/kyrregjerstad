@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Kyrre</h1>
-<h3 align="center">Studying Front-end development at Noroff </h3>
+<h1 align="center">Hi there, I'm Kyrre 👋 </h1>
+<h3 align="center">I'm a Front-end development student at Noroff </h3>
 
 - 📍 Norwegian living in Berlin 
 
