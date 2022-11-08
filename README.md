@@ -1,9 +1,11 @@
-<h1 align="center">Hi there 👋, I'm Kyrre</h1>
-<h3 align="center">A frontend developer student from Norway, based in Berlin 📍</h3>
+<h1 align="center">Hi there, I'm Kyrre</h1>
+<h3 align="center">Studying Front-end development at Noroff </h3>
 
-- 💡 I come from a background of art and music and love to explore the connection between art and technology
+- 📍 Norwegian living in Berlin 
 
-- 🔭 I’m currently working on a project for my university called [Square Eyes](https://sq-ey.netlify.app/index.html)
+- 💡 I come from a background of art and music and love to explore the connection between art and technology 
+
+- 🔭 I’m currently working on a project for my degree, called [Square Eyes](https://sq-ey.netlify.app/index.html)
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript**
 
