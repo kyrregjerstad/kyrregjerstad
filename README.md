@@ -5,9 +5,9 @@
 
 - 💡 I come from a background of art and music and love to explore the connection between art and technology 
 
-- 🔭 I’m currently working on a project for my degree, called [Square Eyes](https://sq-ey.netlify.app/index.html)
+- 🔭 I’m currently working on a project for my degree, called [Futeum](https://futeum.kyrre.dev/)
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript & Svelte**
 
 - 💬 Ask me about **HTML, CSS, Design, UI**
 
