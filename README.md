@@ -8,9 +8,9 @@
 
 - 💡 I come from a background of art and music and love to explore the connection between art and technology 
 
-- 🔭 Latest project: [Rainy Days](https://rainy-days.kyrre.dev/)
-
 - 😄 Latest client: [✨Spell](https://www.spell.so)
+
+- 🔭 Latest project: [Rainy Days](https://rainy-days.kyrre.dev/)
 
 - 🌱 I’m currently learning **SvelteKit, React & Three.js**
 
