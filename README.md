@@ -5,13 +5,15 @@
 
 - 💡 I come from a background of art and music and love to explore the connection between art and technology 
 
-- 🔭 I just made a simple site for renaming files according to my Uni's specifications: [www.rename.noroff.dev](https://rename.noroff.dev/)
+- 🔭 Latest project: [www.rename.noroff.dev](https://rename.noroff.dev/)
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript & Svelte**
+- 😄 Latest client: [✨Spell](https://www.spell.so)
+
+- 🌱 I’m currently learning **SvelteKit, React & Three.js**
 
 - 💬 Ask me about **HTML, CSS, Design, UI**
 
-- 📫 How to reach me **kyrregjerstad@gmail.com**
+- 📫 How to reach me **hi@kyrre.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
