@@ -8,7 +8,7 @@
 
 - 💡 I come from a background of art and music and love to explore the connection between art and technology 
 
-- 😄 Latest client: [✨Spell](https://www.spell.so)
+- 😄 Latest client: [✨Spell.so](https://www.spell.so)
 
 - 🔭 Latest project: [Rainy Days](https://rainy-days.kyrre.dev/)
 
