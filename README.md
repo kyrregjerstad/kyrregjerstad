@@ -1,11 +1,12 @@
 <h1 align="center">Hi there, I'm Kyrre 👋 </h1>
 <h3 align="center">I'm a Front-end development student at Noroff </h3>
+<h4>[kyrre.dev](https://www.kyrre.dev)</h4>
 
 - 📍 Norwegian living in Berlin 
 
 - 💡 I come from a background of art and music and love to explore the connection between art and technology 
 
-- 🔭 Latest project: [www.rename.noroff.dev](https://rename.noroff.dev/)
+- 🔭 Latest project: [Rainy Days](https://rainy-days.kyrre.dev/)
 
 - 😄 Latest client: [✨Spell](https://www.spell.so)
 
