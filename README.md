@@ -1,6 +1,8 @@
 <h1 align="center">Hi there, I'm Kyrre 👋 </h1>
 <h3 align="center">I'm a Front-end development student at Noroff </h3>
-[Rainy Days](https://rainy-days.kyrre.dev/)
+<h4 align="center"><a href="https://www.kyrre.dev">kyrre.dev</a></h3>
+
+
 
 - 📍 Norwegian living in Berlin 
 
