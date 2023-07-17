@@ -8,8 +8,6 @@
 
 - 😄 Latest client: [✨Spell.so](https://www.spell.so) & [🏄 Plugin Surf](https://www.plugin.surf)
 
-- 🔭 Latest project: [Rainy Days](https://rainy-days.kyrre.dev/)
-
 - 🌱 I’m currently learning **SvelteKit, React & Three.js**
 
 - 💬 Ask me about **SvelteKit, HTML, CSS, Design, UI**
