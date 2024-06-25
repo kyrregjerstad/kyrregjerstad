@@ -1,5 +1,5 @@
 <h1 align="center">Hei, I'm Kyrre 👋 </h1>
-<h3 align="center">I'm a freelance frontend focused fullstack developer </h3>
+<h3 align="center">I'm a freelance fullstack typescript developer </h3>
 <h4 align="center"><a href="https://www.kyrre.dev">kyrre.dev</a></h3>
 
 - 📍 Norwegian living in Berlin
