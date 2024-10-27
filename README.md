@@ -6,7 +6,7 @@
 
 - 💡 I come from a background of art and music and love to explore the connection between art and technology
 
-- 😄 Latest clients: [🏭flipsight](https://flipsight.de) - [✨Spell.so](https://www.spell.so) - [🏄 Plugin Surf](https://www.plugin.surf)
+- 😄 Latest clients: [👋HiPeople](https://www.hipeople.io/) [🏭flipsight](https://flipsight.de) - [✨Spell.so](https://www.spell.so) - [🏄 Plugin Surf](https://www.plugin.surf)
 
 - 📫 How to reach me **[hi@kyrre.dev](mailto:hi@kyrre.dev)**
 
