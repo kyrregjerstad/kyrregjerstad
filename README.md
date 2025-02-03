@@ -40,4 +40,4 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kyrregjerstad&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://gh-streaks.kyrregjerstad.workers.dev/streak/YOUR_GITHUB_USERNAME)](https://gh-streaks.kyrregjerstad.workers.dev/)
